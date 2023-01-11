@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-test-id",
+  "name": "@dongcx0319/eslint-plugin-testid",
   "version": "2.1.0",
   "description": "This checks is data-test-id prop is present, on some tags which are useful for e2e testing",
   "keywords": [
@@ -12,7 +12,7 @@
   "author": "Prashant Swami",
   "main": "lib/index.js",
   "repository": {
-    "url": "https://github.com/prashantswami/eslint-plugin-test-id"
+    "url": "git+https://github.com/prashantswami/eslint-plugin-test-id.git"
   },
   "scripts": {
     "test": "mocha tests --recursive"
@@ -32,5 +32,14 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashantswami/eslint-plugin-test-id/issues"
+  },
+  "homepage": "https://github.com/prashantswami/eslint-plugin-test-id#readme",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "tests"
+  }
 }
