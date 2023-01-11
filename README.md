@@ -12,10 +12,10 @@ You'll first need to install [ESLint](http://eslint.org):
 $ npm i eslint --save-dev
 ```
 
-Next, install `eslint-plugin-test-id`:
+Next, install `@dongcx0319/eslint-plugin-testid`:
 
 ```
-$ npm install eslint-plugin-test-id --save-dev
+$ npm install @dongcx0319/eslint-plugin-testid --save-dev
 ```
 
 
